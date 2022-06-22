@@ -2,8 +2,4 @@ name: sleeve-environment
 channels:
   - conda-forge
 dependencies:
-  - numpy
-  - scipy
-  - sympy 
-  - ipywidgets
-  - matplotlib 
+ - numpy
